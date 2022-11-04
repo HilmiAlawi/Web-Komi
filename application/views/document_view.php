@@ -57,7 +57,7 @@
 
                 <div class="section-title">
                     <h2>Documents</h2>
-                    <h3>Dokumen <span>Rayon</span></h3>
+                    <h3>Dokumen <span>Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
                 </div>
 

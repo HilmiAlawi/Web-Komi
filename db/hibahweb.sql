@@ -314,7 +314,7 @@ CREATE TABLE `tbl_site` (
 --
 
 INSERT INTO `tbl_site` (`site_id`, `site_name`, `site_title`, `site_description`, `site_favicon`, `site_logo_header`, `site_logo_footer`, `site_logo_big`, `site_facebook`, `site_twitter`, `site_instagram`, `site_pinterest`, `site_linkedin`, `site_wa`, `site_mail`) VALUES
-(1, 'Rayon', 'Pengurus Rayon Pergerakan Mahasiswa Islam Indonesia', 'Website Resmi Pengurus Rayon Pergerakan Mahasiswa Islam Indonesia', 'favicon1.png', 'apple-touch-icon2.png', 'favicon.png', 'logobig.jpg', 'https://www.facebook.com/dosenirham', 'https://twitter.com/bro_irham', 'https://www.instagram.com/bro_irham', 'Jl. Taman Amir Hamzah No.5, Menteng, Jakarta Pusat ', 'https://www.linkedin.com/in/irchamali', '6285000111222', 'info@rayonpmii.id');
+(1, 'Komisariat', 'Pengurus Komisariat Pergerakan Mahasiswa Islam Indonesia', 'Website Resmi Pengurus Komisariat Pergerakan Mahasiswa Islam Indonesia', 'favicon1.png', 'apple-touch-icon2.png', 'favicon.png', 'logobig.jpg', 'https://www.facebook.com/dosenirham', 'https://twitter.com/bro_irham', 'https://www.instagram.com/bro_irham', 'Jl. Taman Amir Hamzah No.5, Menteng, Jakarta Pusat ', 'https://www.linkedin.com/in/irchamali', '6285000111222', 'pmiistmiktasikmlaya@gmail.com');
 
 -- --------------------------------------------------------
 

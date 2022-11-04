@@ -63,7 +63,7 @@
 
                 <div class="section-title">
                     <h2>Contact</h2>
-                    <h3>Kontak<span> Rayon</span></h3>
+                    <h3>Kontak<span> Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
                 </div>
 
@@ -72,7 +72,7 @@
                         <div class="info-box mb-4">
                             <i class="bx bx-map"></i>
                             <h3>Alamat</h3>
-                            <p><?= $site_loc; ?></p>
+                            <p><?= $ssite_loc; ?></p>
                         </div>
                     </div>
 

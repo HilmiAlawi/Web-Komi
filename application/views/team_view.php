@@ -63,7 +63,7 @@
 
                 <div class="section-title">
                     <h2>Team</h2>
-                    <h3>Pengurus <span>Rayon</span></h3>
+                    <h3>Pengurus <span>Komisariat</span></h3>
                     <p>Pergerakan Mahasiswa Islam Indonesia</p>
                 </div>
 

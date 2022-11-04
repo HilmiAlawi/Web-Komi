@@ -24,11 +24,11 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3>Rayon<span>.</span></h3>
+                    <h3>Alamat Kami<span>.</span></h3>
                     <p>
-                        Jl. Taman Amir Hamzah <br>
-                        Pegangsaan, Menteng<br>
-                        Central Jakarta <br><br>
+                        Jl. R.E Maradinata <br>
+                        Kampus STMIK<br>
+                        Kota Tasikmalaya <br><br>
                         <strong>Phone:</strong> <?= $site_wa; ?><br>
                         <strong>Email:</strong> <?= $site_mail; ?><br>
                     </p>
@@ -71,10 +71,10 @@
 
     <div class="container py-4">
         <div class="copyright">
-            &copy; Copyright <strong><span>PMIIDev</span></strong> <?= date('Y') ?>
+            &copy; Copyright <strong><span>PKPMIIDev</span></strong> <?= date('Y') ?>
         </div>
         <div class="credits">
-            Designed by <a href="https://instagram.com/pmiidev">PMIIDev</a>
+            Designed by <a href="https://instagram.com/pmiistmiktasikamalaya">PKPMIISTMIKTASIK</a>
         </div>
     </div>
 </footer>
